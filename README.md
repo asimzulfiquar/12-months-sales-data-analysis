@@ -25,8 +25,3 @@ This project performs a detailed analysis of sales data over a 12-month period, 
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib**: For data visualization.
 - **Collections (Counter, Combinations)**: For analyzing product combinations.
-
-## Getting Started
-1. **Clone the repository**: 
-   ```bash
-   git clone https://github.com/your-username/sales-analysis-project.git
